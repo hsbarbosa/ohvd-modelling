@@ -191,7 +191,7 @@ max-align-turn
 max-align-turn
 0.0
 20.0
-0.0
+5.0
 0.25
 1
 degrees
@@ -206,7 +206,7 @@ max-cohere-turn
 max-cohere-turn
 0.0
 20.0
-0.0
+3.0
 0.25
 1
 degrees
@@ -221,7 +221,7 @@ max-separate-turn
 max-separate-turn
 0.0
 20.0
-0.0
+1.5
 0.25
 1
 degrees
@@ -236,7 +236,7 @@ vision
 vision
 0.0
 10.0
-0.0
+5.0
 0.5
 1
 patches
@@ -251,7 +251,7 @@ minimum-separation
 minimum-separation
 0.0
 5.0
-0.0
+1.0
 0.25
 1
 patches
@@ -644,7 +644,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.1.1
+NetLogo 6.0.4
 @#$#@#$#@
 set population 200
 setup
